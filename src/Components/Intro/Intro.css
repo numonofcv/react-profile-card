@@ -1,0 +1,18 @@
+.intro{
+    text-align: start;
+}
+.intro h1{
+    color: #fff;
+    font-size:2rem;
+    margin: 0 0 16px 0;
+    padding: 0;
+    line-height: 2rem;
+}
+.intro p{
+    color: #fff;
+    font-size:1rem;
+    margin: 0;
+    padding: 0;
+  line-height: 1.6;
+
+}
